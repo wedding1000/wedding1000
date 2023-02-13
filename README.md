@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mariska</h1>
+<h1 align="center">Hi 👋, I'm Angel</h1>
 <h3 align="center">Saya Berasal Dari Indonesia, Dan Kini Saya Adalah Seorang Digital Marketing.</h3>
 
 - 🔭 Saya Bekerja di, [WeddingTodays](https://weddingtodays.com/)
